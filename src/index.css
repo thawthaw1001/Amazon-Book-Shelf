@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+     .containerPj {
+        @apply  container px-[150px] h-screen overflow-y-scroll bg-slate-200;
+     }
+}

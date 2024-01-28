@@ -1,0 +1,138 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "book": "The Great Gatsby",
+      "image": "https://m.media-amazon.com/images/I/61dRoDRubtL._AC_UF1000,1000_QL80_.jpg",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "description": "A novel about the American Dream during the Roaring Twenties. The story follows the mysterious Jay Gatsby and his pursuit of wealth and love, set against the backdrop of lavish parties and societal change.",
+      "rating": 4.5,
+      "price": 12.99
+    },
+    {
+      "id": "2",
+      "book": "To Kill a Mockingbird",
+      "image": "https://m.media-amazon.com/images/I/51p12agL5LL.jpg",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "A classic novel addressing racial injustice and moral growth in the American South. Through the eyes of young Scout Finch, the story explores themes of compassion, empathy, and the struggle for justice.",
+      "rating": 4.8,
+      "price": 10.50
+    },
+    {
+      "id": "3",
+      "book": "1984",
+      "image": "https://m.media-amazon.com/images/I/61ZewDE3beL._AC_UF894,1000_QL80_.jpg",
+      "author": "George Orwell",
+      "slug": "1984",
+      "description": "A classic novel addressing racial injustice and moral growth in the American South. Through the eyes of young Scout Finch, the story explores themes of compassion, empathy, and the struggle for justice.",
+      "rating": 4.7,
+      "price": 9.99
+    },
+    {
+      "id": "4",
+      "book": "The Catcher in the Rye",
+      "image": "https://m.media-amazon.com/images/I/81ebNbjRXnL._AC_UF1000,1000_QL80_.jpg",
+      "author": "J.D. Salinger",
+      "slug": "the-catcher-in-the-rye",
+      "description": "A coming-of-age novel narrated by a disenchanted teenager in New York City. Holden Caulfield, the protagonist, navigates the complexities of adolescence, alienation, and societal expectations in a post-World War II America.",
+      "rating": 4.3,
+      "price": 11.25
+    },
+    {
+      "id": "5",
+      "book": "Pride and Prejudice",
+      "image": "https://m.media-amazon.com/images/I/61H3BvN-naL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Jane Austen",
+      "slug": "pride-and-prejudice",
+      "description": "A classic romance novel exploring themes of love, class, and societal expectations in 19th-century England. The story revolves around the spirited Elizabeth Bennet and the wealthy Mr. Darcy as they navigate misunderstandings, pride, and prejudice on their journey to love.",
+      "rating": 4.9,
+      "price": 14.75
+    },
+    {
+      "id": "6",
+      "book": "The Hobbit",
+      "image": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "description": "A fantasy novel following the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland from a dragon. Along the way, Bilbo encounters trolls, elves, and Gollum, and discovers the power of courage and friendship.",
+      "rating": 4.6,
+      "price": 13.50
+    },
+    {
+      "id": "7",
+      "book": "Harry Potter and the Sorcerer's Stone",
+      "image": "https://m.media-amazon.com/images/I/71RVt35ZAbL._AC_UF1000,1000_QL80_.jpg",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-and-the-sorcerers-stone",
+      "description": "The first book in the Harry Potter series, introducing the young wizard and his adventures at Hogwarts School of Witchcraft and Wizardry. Harry discovers his magical heritage, makes friends, and confronts the dark wizard Voldemort in this beloved tale of magic and friendship.",
+      "rating": 4.8,
+      "price": 16.99
+    },
+    {
+      "id": "8",
+      "book": "The Lord of the Rings",
+      "image": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-lord-of-the-rings",
+      "description": "An epic fantasy trilogy depicting the quest to destroy a powerful ring and defeat the dark lord Sauron. Frodo Baggins and his companions embark on a perilous journey through Middle-earth, encountering elves, dwarves, and men, as they fight against the forces of darkness.",
+      "rating": 4.9,
+      "price": 24.99
+    },
+
+    {
+      "id": "9",
+      "book": "The Hunger Games",
+      "image": "https://m.media-amazon.com/images/I/71un2hI4mcL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Suzanne Collins",
+      "slug": "the-hunger-games",
+      "description": "A dystopian novel set in a future where young people are forced to participate in a televised fight to the death. Katniss Everdeen volunteers to take her sister's place in the deadly Hunger Games, sparking a rebellion against the oppressive Capitol.",
+      "rating": 4.5,
+      "price": 11.99
+    },
+    {
+      "id": "10",
+      "book": "The Da Vinci Code",
+      "image": "https://m.media-amazon.com/images/I/815WORuYMML._AC_UF1000,1000_QL80_.jpg",
+      "author": "Dan Brown",
+      "slug": "the-da-vinci-code",
+      "description": "A mystery thriller involving a Harvard symbologist and a cryptologist trying to solve a murder with hidden clues. Robert Langdon and Sophie Neveu follow a trail of secrets and symbols across Europe, unraveling the mysteries of the Priory of Sion and the elusive Holy Grail.",
+      "rating": 4.7,
+      "price": 13.25
+    }
+  ],
+
+  "movie": [
+    {
+      "id": 1,
+      "directorName": "Christopher Nolan",
+      "movieTitle": "Inception",
+      "releaseDate": "2010-07-16"
+    },
+    {
+      "id": 2,
+      "directorName": "Quentin Tarantino",
+      "movieTitle": "Pulp Fiction",
+      "releaseDate": "1994-10-14"
+    },
+    {
+      "id": 3,
+      "directorName": "Steven Spielberg",
+      "movieTitle": "Jurassic Park",
+      "releaseDate": "1993-06-11"
+    },
+    {
+      "id": 4,
+      "directorName": "Hayao Miyazaki",
+      "movieTitle": "Spirited Away",
+      "releaseDate": "2001-07-20"
+    },
+    {
+      "id": 5,
+      "directorName": "Martin Scorsese",
+      "movieTitle": "Goodfellas",
+      "releaseDate": "1990-09-19"
+    }
+  ]
+}
